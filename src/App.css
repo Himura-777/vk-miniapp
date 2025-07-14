@@ -1,0 +1,15 @@
+.cards-container {
+	display: flex;
+	justify-content: center;
+	gap: 16px;
+	margin: 0 16px;
+	text-align: center;
+}
+
+.cards-column {
+	background-clip: padding-box;
+}
+
+.card {
+	min-width: 300px;
+}
